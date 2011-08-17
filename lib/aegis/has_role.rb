@@ -55,7 +55,7 @@ module Aegis
           end
         end
 
-        set :initialize, :after, :set_default_role_name
+        set_callback :initialize, :after, :set_default_role_name
 
       end
 
