@@ -55,7 +55,7 @@ module Aegis
           end
         end
 
-        Base.after_initialize :set_default_role_name
+        ActiveRecord::Base.after_initialize :set_default_role_name
 
       end
 
