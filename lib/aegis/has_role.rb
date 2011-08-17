@@ -55,7 +55,7 @@ module Aegis
           end
         end
 
-        after_initialize :set_default_role_name
+        Base.after_initialize :set_default_role_name
 
       end
 
