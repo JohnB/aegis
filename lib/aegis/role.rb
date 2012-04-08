@@ -17,6 +17,10 @@ module Aegis
       name <=> other.name
     end
 
+    def ==(other)
+      name == other.name && default_permission == other.default_permission
+    end
+
     def to_s
       name.to_s.humanize
     end
