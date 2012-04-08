@@ -3,4 +3,5 @@ pkg
 *.gem
 .idea
 Gemfile.lock
+*.tmproj
 
