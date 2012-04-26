@@ -1,5 +1,5 @@
 module Aegis
-  module Spec
+  module RSpec
     module Matchers
 
       class CheckPermissions
