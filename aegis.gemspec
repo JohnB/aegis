@@ -37,7 +37,7 @@ Gem::Specification.new do |s|
      "lib/aegis/role.rb",
      "lib/aegis/sieve.rb",
      "lib/aegis/spec.rb",
-     "lib/aegis/spec/matchers.rb",
+     "lib/aegis/rspec/matchers.rb",
      "lib/aegis/util.rb",
      "spec/aegis/controller_spec.rb",
      "spec/aegis/has_role_spec.rb",
