@@ -106,7 +106,7 @@ Also see http://wiki.github.com/makandra/aegis/controller-integration
      "spec/aegis/loader_spec.rb",
      "spec/aegis/permissions_spec.rb",
      "spec/aegis/sieve_spec.rb",
-     "spec/aegis/rspec/matchers_spec.rb",
+     "spec/aegis/spec/matchers_spec.rb",
      "spec/aegis/controller_spec.rb",
      "spec/support/spec_candy.rb"
   ]
